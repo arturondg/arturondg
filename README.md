@@ -10,7 +10,7 @@ Skills: Python / SQL(SQL Server, PosgreSQL, MySQL) / Microsoft Excel / SPSS / Mi
 - 💬 Ask me about Topics mentioned, Research Methodology
 
 ## Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arturondg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arturondg/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='coursera' height='40'>](https://www.coursera.org/user/787c3e53e5fbe76bfd618390630c0b60)  
+[<img src='https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arturondg/)  
 
 
 ## Language and tools:
