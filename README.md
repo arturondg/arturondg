@@ -2,7 +2,7 @@
 
 I’m sociology student and I’m very interested in Data Analytics and Data in general. I love sociology and my favorite topics there are Technology, Digital Culture, Systems Theory, Complexity and Labor.
 
-Skills: Python / SQL(SQL Server, PosgreSQL, MySQL) / Microsoft Excel / SPSS / Microsoft / Power BI.
+Skills: Python / SQL(SQL Server, PosgreSQL, MySQL) / Microsoft Excel / SPSS / Microsoft / Power BI / SPSS / IBM Cognos
 
 - 🔭 I’m currently working on my portfolio 
 - 🌱 I’m currently learning Power BI 
@@ -28,5 +28,6 @@ Skills: Python / SQL(SQL Server, PosgreSQL, MySQL) / Microsoft Excel / SPSS / Mi
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="52" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  
 </div>
 
