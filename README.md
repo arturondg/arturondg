@@ -9,6 +9,12 @@ Skills: Python / SQL(SQL Server, PosgreSQL, MySQL) / Microsoft Excel / SPSS / Mi
 - 🤔 I’m looking for help with find my first job 
 - 💬 Ask me about Topics mentioned, Research Methodology
 
+
+### Legend
+Before the name of the projects, there is an acronym that identifies them:
+* PE - Practice Excercises
+* PR - Projects
+
 ## Connect with me:
 [<img src='https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arturondg/)  
 
