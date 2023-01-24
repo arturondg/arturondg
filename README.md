@@ -1,6 +1,6 @@
 # Hi, I'm Arturo 👋
 
-I’m sociology student and I’m very interested in Data Analytics and Data in general. I love sociology and my favorite topics there are Technology, Digital Culture, Systems Theory, Complexity and Labor.
+I’m sociology student and I’m very interested in Data Analytics and Data in general. I love sociology and my favorite topics  are Technology, Digital Culture, Systems Theory, Complexity and Labor.
 
 Skills: Python / SQL(SQL Server, PosgreSQL, MySQL) / Microsoft Excel / SPSS / Microsoft / Power BI / SPSS / IBM Cognos
 
